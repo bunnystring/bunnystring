@@ -1,6 +1,6 @@
-<!-- Banner animado (puedes cambiar por tu propio GIF/banner) -->
+<!-- Banner personalizado -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Bienvenido a mi perfil!" />
+  <img src="https://portfolio-ac.com/assets/images/profile12.png" width="320" alt="Perfil profesional bunnystring" />
 </p>
 
 <h1 align="center">¡Hola 👋, soy bunnystring!</h1>
